@@ -7,9 +7,11 @@ This is example to show different parts of the git repository
 
 ## Purpose
 
-Sample website with plenty of files for demos
+as stated above, we are simply training some new concepts- new to sven anyways
 
 ## Deployment
+
+this is a simple web project deployment and stuff
 
 ## How to contribute
 
