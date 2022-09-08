@@ -15,3 +15,7 @@ this is a simple web project deployment and stuff
 
 ## How to contribute
 
+### Copyright
+
+2022 sven.git.training
+
