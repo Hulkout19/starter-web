@@ -20,5 +20,5 @@ Please for this repo then isse pull request for review
 
 ### Copyright
 
-2022 sven.git.training
+2022 sven.git.training All rights and my heart belong to bla-
 
