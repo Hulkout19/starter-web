@@ -15,6 +15,8 @@ this is a simple web project deployment and stuff
 
 ## How to contribute
 
+Please for this repo then isse pull request for review
+
 ### Copyright
 
 2022 sven.git.training
